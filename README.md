@@ -1,6 +1,6 @@
 # JaikaranViewTool
 
-< Copyright gem for website that I use.
+> Copyright gem for website that I use.
 
 ## Installation
 
